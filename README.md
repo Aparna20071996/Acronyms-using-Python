@@ -8,4 +8,4 @@ To create acronyms using Python, you need to write a python program that generat
 
    **Summary**
    
-This is a great python program to test your logical skills. These types of programs contribute a lot to your coding interviews. So you should keep trying such programs to develop a good understanding of creating algorithms to perform well in your coding interviews.
+This is a great python program to test your logical skills. These types of programs contribute a lot to your coding interviews. So you should keep trying such programs to develop a good understanding of creating algorithms to perform well in your coding interviews..
